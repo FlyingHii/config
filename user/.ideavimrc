@@ -1,0 +1,13 @@
+set nowrapscan
+set ignorecase smartcase
+set clipboard=unnamedplus
+set shell=/bin/bash
+let &t_SI = "\e[5 q"
+let &t_EI = "\e[2 q"
+
+sethandler <C-R> a:vim
+sethandler <C-]> a:vim
+sethandler <C-[> a:vim
+sethandler <C-E> a:ide
+sethandler <C-W> a:ide
+sethandler <C-F> a:ide

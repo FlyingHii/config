@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Dev - @10.148.0.249" uuid="caf096c4-ad40-4619-b758-ebff8803b54f">
+      <driver-ref>mongo.4</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb://10.148.0.249:27017</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="@localhost" uuid="4ba123f1-46c3-402c-a8a0-8529e5c1f967">
+      <driver-ref>hive</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
+      <jdbc-url>jdbc:hive2://localhost:10000</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Staging - @10.148.0.8" uuid="98656d05-2cbd-4be9-af0f-5a96903e687a">
+      <driver-ref>mongo.4</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb://10.148.0.8:27017</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Production - @10.148.0.12" read-only="true" uuid="fc2e3120-63f3-4c47-98d7-e643babfb217">
+      <driver-ref>mongo.4</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb://10.148.0.12:27017</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="0@10.148.0.8 staging" uuid="b11ccc30-0671-4d7d-9cc8-617238419d92">
+      <driver-ref>redis</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>jdbc.RedisDriver</jdbc-driver>
+      <jdbc-url>jdbc:redis://10.148.0.8:6379/</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="@10.148.0.249" uuid="06402054-e370-4779-8ebf-e0d9947f0a73">
+      <driver-ref>elasticsearch</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.elasticsearch.xpack.sql.jdbc.EsDriver</jdbc-driver>
+      <jdbc-url>jdbc:es://10.148.0.249:5601/</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="0@10.148.0.249 dev" uuid="b3418112-15ce-473d-9dfc-fc8e1084fa8b">
+      <driver-ref>redis</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>jdbc.RedisDriver</jdbc-driver>
+      <jdbc-url>jdbc:redis://10.148.0.249:6379/</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="@10.148.0.249" uuid="f0881c78-1a82-41b0-aabe-75d69be707b3">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.148.0.249:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="HHFN - dev" uuid="ee3fa083-2454-47e4-a1d3-ea572ae042b1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://mysql-d8a6d2f-tunguyenqn1998-904a.f.aivencloud.com:19035</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="chrome_history" uuid="00be1682-4be5-47c6-bcba-b246939e81bc">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$USER_HOME$/.config/google-chrome/Default/History</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="prod-hhfn" read-only="true" uuid="99357643-6a49-4031-be9c-a7cc5beb38eb">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.148.0.15:3311/fintech</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Production - 0@10.148.0.15" read-only="true" uuid="ae518b2e-c7de-45de-803a-dd420e2e4056">
+      <driver-ref>redis</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>jdbc.RedisDriver</jdbc-driver>
+      <jdbc-url>jdbc:redis://10.148.0.15:6379/</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL" uuid="87448132-4e49-4a51-a9f2-24070572d72a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://45.78.198.62:15433/mp_backend</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

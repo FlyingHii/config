@@ -1,0 +1,10 @@
+#!/bin/bash
+XDEV_PATH="${HOME}/Documents/xdev"
+cd "$XDEV_PATH" || exit
+git pull
+
+xset r rate 170 60
+gsettings set org.gnome.desktop.peripherals.touchpad tap-to-click true
+
+bash "${XDEV_PATH}/bin/hv-os-image-init.sh"
+bash ev-idle-mouse.sh
