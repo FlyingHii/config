@@ -9,7 +9,7 @@ fi
 
 # --- Configuration ---
 IDLE_TIME_MS=$((1 * 1000)) # 1 sec in milliseconds (adjust as needed)
-CHECK_INTERVAL_SECONDS=5       # Check every 5 seconds
+CHECK_INTERVAL_SECONDS=10       # Check every 5 seconds
 
 # Get screen dimensions
 # If you have multiple monitors, this might need adjustment to select the primary
