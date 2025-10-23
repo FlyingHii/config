@@ -1,0 +1,801 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/rio/code/redbag-new-data-sync">
+          <value>
+            <RecentProjectMetaInfo frameTitle="redbag-new-data-sync – sync_service.go" projectWorkspaceId="2rybNF2tEvwlmKfASWVpP6H5R4t">
+              <option name="activationTimestamp" value="1744271617127" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1744254123938" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/redbag-web">
+          <value>
+            <RecentProjectMetaInfo frameTitle="redbag-web – FirebaseMessageService.ts" projectWorkspaceId="2uYuSv2153xEV5X74Ho2OxpKrQQ">
+              <option name="activationTimestamp" value="1744275629202" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1744272453861" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/hhfn/hhfn-app-admin">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hhfn-app-admin – offer/FormView.tsx" projectWorkspaceId="2tVvrOEqpQGXjluE95yk8tng8FA">
+              <option name="activationTimestamp" value="1744273551653" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1744273506253" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/riofintech-redbag-web">
+          <value>
+            <RecentProjectMetaInfo frameTitle="riofintech-redbag-web – UserApiController.php" projectWorkspaceId="2vWzTywTRP9q0x5SGO99rqM87pH">
+              <option name="activationTimestamp" value="1744276367548" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1744275629526" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/hhfn/hhfn-app/hhfn-home">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hhfn-home" projectWorkspaceId="2wAOpilYRG3YEXnxKoOJS1oEkv9">
+              <option name="activationTimestamp" value="1745492274051" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1745492034900" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/xdev/projects/k8s-demo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="k8s-demo – README.md" projectWorkspaceId="2v4H8XLKV38dfhMT3hF6OS53vKN">
+              <option name="activationTimestamp" value="1745657248521" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1745637339318" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/light-edit">
+          <value>
+            <RecentProjectMetaInfo frameTitle="aaaa - /tmp" projectWorkspaceId="2wFWtUv2BfQGwTRnTCbwFPc6a3s">
+              <option name="activationTimestamp" value="1745638049209" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/personal/notes">
+          <value>
+            <RecentProjectMetaInfo frameTitle="notes – notes.md" projectWorkspaceId="2wFXAZoeRAtwDKK06NqwRIgH1OV">
+              <option name="activationTimestamp" value="1745639737918" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1745638152129" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/hyperlead-report">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hyperlead-report – RestServer.groovy" projectWorkspaceId="2kuoAn051qyxuuj3hSfvnhjc4Gc">
+              <option name="activationTimestamp" value="1745909867385" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1745899527329" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/hyperlead-consolidation">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hyperlead-consolidation – AdvertiserCashFlowController.groovy" projectWorkspaceId="2wFdDDp4uNzLjZ1XP03FUgcP7eS">
+              <option name="activationTimestamp" value="1745921240009" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1745920654330" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/hyperlead-automation-testing-ui-ux">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hyperlead-automation-testing-ui-ux – testng.xml" projectWorkspaceId="2wl1wiMpUTailtSWjhqznCulRpE">
+              <option name="activationTimestamp" value="1747120514716" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1747110515393" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/zalo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="zalo" projectWorkspaceId="2xROM2aRDyV7qSCrh7bhkl0pGXG">
+              <option name="activationTimestamp" value="1747999457535" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1747998707894" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/hyperlead-pub-frontend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hyperlead-pub-frontend – LoginJWT.vue" projectWorkspaceId="2rjqk2vQJXJyWYOKxaLAG6RwETs">
+              <option name="activationTimestamp" value="1748317170063" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1748316863358" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/riofintech-authenticate">
+          <value>
+            <RecentProjectMetaInfo frameTitle="riofintech-authenticate – RoleServiceImpl.groovy" projectWorkspaceId="2xinI5LbXfDNEPDaRyWfobM1BUi">
+              <option name="activationTimestamp" value="1748431418994" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1748430498657" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/riofintech-publisher-report">
+          <value>
+            <RecentProjectMetaInfo frameTitle="riofintech-publisher-report – README.md" projectWorkspaceId="2tDD6PyuchLWL4DVzaVRIRpCUZC">
+              <option name="activationTimestamp" value="1748515928370" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1748515848997" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/riofintech-payout">
+          <value>
+            <RecentProjectMetaInfo frameTitle="riofintech-payout – Runner.groovy" projectWorkspaceId="2wFxlELL0nLDb7J2Q2JniKeh5oB">
+              <option name="activationTimestamp" value="1748515968011" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1748515903671" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/tmp/redbag-web">
+          <value>
+            <RecentProjectMetaInfo frameTitle="redbag-web – Messaging.tsx" projectWorkspaceId="2rv9OFi7vwcSFqA9A6Q3xrFHDPG">
+              <option name="activationTimestamp" value="1748939311412" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1748925314987" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/personal/code/Iosevka">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Iosevka" projectWorkspaceId="2yIho6hreeyz6UMpR3wH7YGF7LZ">
+              <option name="activationTimestamp" value="1749535019162" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1749528166729" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/personal/code/Iosevka-main">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Iosevka-main – private-build-plans.toml" projectWorkspaceId="2yInjvRYRDNuy0j9nhJyV4RgWJd">
+              <option name="activationTimestamp" value="1749535192768" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1749531093619" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/etc/nginx">
+          <value>
+            <RecentProjectMetaInfo frameTitle="nginx – hhfn-home.conf" projectWorkspaceId="2wAo320Jb46rjiaBsk0M3pFL4NB">
+              <option name="activationTimestamp" value="1749699517722" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1749699504568" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/xdev/projects/qq_work_faster">
+          <value>
+            <RecentProjectMetaInfo frameTitle="qq_work_faster" projectWorkspaceId="2ycHrmXR9DL4vFOFl8ULTiwEWpv">
+              <option name="activationTimestamp" value="1750156579359" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1750156569479" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/xdev/projects/personal-site">
+          <value>
+            <RecentProjectMetaInfo frameTitle="personal-site – .gitignore" projectWorkspaceId="2iBStX2JNtsAw2cb5jvmQkyfhBf">
+              <option name="activationTimestamp" value="1751254194249" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1751252747450" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/riofintech-payment">
+          <value>
+            <RecentProjectMetaInfo frameTitle="riofintech-payment – CANCEL_CONVERSIONS.groovy" projectWorkspaceId="2wOSOWJ9z17fRzOgV7y0G68mQY6">
+              <option name="activationTimestamp" value="1752741882308" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1752741883907" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/hyperlead-automation-testing">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hyperlead-automation-testing – TrafficTCs.java" projectWorkspaceId="2woMR5MYgmn6oCcVZcZUbre1elL">
+              <option name="activationTimestamp" value="1753070104050" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1753069862643" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/hyperlead-pub-backend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hyperlead-pub-backend – EKYCController.php" projectWorkspaceId="2tDA89AzqvZluz0TqZYoXFAaBFN">
+              <option name="activationTimestamp" value="1753259272965" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1753244507383" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/hhfn/hhfn-app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hhfn-app – f88-agent-login.html" projectWorkspaceId="2tVvrOEqpQGXjluE95yk8tng8FA">
+              <option name="activationTimestamp" value="1753758575555" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1753758548847" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/meeting-recap-ai">
+          <value>
+            <RecentProjectMetaInfo frameTitle="meeting-recap-ai – ~/Documents/rio/code/meeting-recap-ai/.env" projectWorkspaceId="30aYMWAH1gqfly5WwJLr31qsfjT">
+              <option name="activationTimestamp" value="1753867254237" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1753867171732" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/landing-pages">
+          <value>
+            <RecentProjectMetaInfo frameTitle="landing-pages – f88-agent/index.php" projectWorkspaceId="2orw0BlrBzdOXGBfwLX6Ga2SEZ3">
+              <option name="activationTimestamp" value="1754041477277" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1754040937355" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/zaui-coffee">
+          <value>
+            <RecentProjectMetaInfo frameTitle="zaui-coffee – pages/result.tsx" projectWorkspaceId="31G83E5FJTq1dTt8X5dtVTJETY3">
+              <option name="activationTimestamp" value="1755139787041" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1755138848414" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/mp-web-client">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mp-web-client – EmployeeConversionNew.tsx" projectWorkspaceId="30zEJ3upvWt3vVOK5z4d98fa5Yk">
+              <option name="activationTimestamp" value="1755172676137" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1755169436942" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/xdev/config/ssh/ssh">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ssh" projectWorkspaceId="31J3e91k5kuM6GIqJ9jhy76Fwdg">
+              <option name="activationTimestamp" value="1755228874982" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1755228441548" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/xdev/config/.ssh">
+          <value>
+            <RecentProjectMetaInfo frameTitle=".ssh – mp" projectWorkspaceId="31J3e91k5kuM6GIqJ9jhy76Fwdg">
+              <option name="activationTimestamp" value="1755229690070" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1755229161872" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/xdev/config/ssh">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ssh" projectWorkspaceId="31J5WdhtW3YkCKkr4KAo0LdfbnU">
+              <option name="activationTimestamp" value="1755229376046" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1755229367305" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/rio-ops">
+          <value>
+            <RecentProjectMetaInfo frameTitle="rio-ops – prod-hh-admin-backend.yml" projectWorkspaceId="2wM5C8kK3AkU1qHyoT9SPdL7sns">
+              <option name="activationTimestamp" value="1757056345589" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1757056325901" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/mp-backend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mp-backend – configmap-staging-mp-backend.yml" projectWorkspaceId="31r3HLajSLEcaWyxNgEOSySQo6j">
+              <option name="activationTimestamp" value="1757489769085" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1757489695659" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/remote">
+          <value>
+            <RecentProjectMetaInfo frameTitle="remote – .rsync.ignore" projectWorkspaceId="32Uz73Krj15zpZSOKiUX33ccb8h">
+              <option name="activationTimestamp" value="1757492869232" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1757489767914" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/personal/code/aider">
+          <value>
+            <RecentProjectMetaInfo frameTitle="aider – HISTORY.md" projectWorkspaceId="2whnABgvE9WQiJYXJ8tgTai7tbq">
+              <option name="activationTimestamp" value="1757911824480" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1757911769727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/riofintech-admin-panel">
+          <value>
+            <RecentProjectMetaInfo frameTitle="riofintech-admin-panel – Dockerfile" projectWorkspaceId="2ke4fB2RVjbWH1HLlsDmeqGtZr4">
+              <option name="activationTimestamp" value="1758168354711" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1758164617600" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/xdev/projects/aider-assistant">
+          <value>
+            <RecentProjectMetaInfo frameTitle="aider-assistant – datbike/requirement.md" projectWorkspaceId="2xIVBcgCcu5ki6cI904iSY0mL9i">
+              <option name="activationTimestamp" value="1758517157509" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1758516914282" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/mp-zalo-app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mp-zalo-app – Spinner.tsx" projectWorkspaceId="30osCnuWH7OPC1BLGTT2AEoXG4x">
+              <option name="activationTimestamp" value="1758681556997" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1758681549818" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/rio/code/datbike">
+          <value>
+            <RecentProjectMetaInfo frameTitle="datbike – shopify-section-template--17409699479737__dev_custom_columns_DDDqQy.shortcode.html" projectWorkspaceId="332ZWBVGFbxUJcv34rLBudFn4FZ">
+              <option name="activationTimestamp" value="1759121289137" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1759113592220" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/personal/temp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="temp – temp.txt" projectWorkspaceId="332MuxgPCjPkeYMsm9mpynwAlsu">
+              <option name="activationTimestamp" value="1759231325205" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1759203922535" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$">
+          <value>
+            <RecentProjectMetaInfo frameTitle="IdeaIC2024.3 – other.xml" projectWorkspaceId="33fqX9QxGZYfrgklOrFm7kCCE2I">
+              <option name="activationTimestamp" value="1759718808895" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1759718780728" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/personal/code/dsa">
+          <value>
+            <RecentProjectMetaInfo frameTitle="dsa – temp.go" projectWorkspaceId="2ls11JkYUtTgCDjneJ3paavFWpk">
+              <option name="activationTimestamp" value="1760094029518" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1760094023032" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/xdev/bin">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bin – ev-coin.sh" projectWorkspaceId="2vQfFEkDLm4j8w1HiVYHsW3LcD8">
+              <option name="activationTimestamp" value="1760434753201" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1760428665433" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/personal/code/datbike_images">
+          <value>
+            <RecentProjectMetaInfo frameTitle="datbike_images – scrape_images_selenium.py" projectWorkspaceId="34BUHz9gtvk5a5IxqWK1NJCKqKO">
+              <option name="activationTimestamp" value="1760688182613" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1760687806868" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/xdev">
+          <value>
+            <RecentProjectMetaInfo frameTitle="xdev – home.md" projectWorkspaceId="2l0P9TgwzCKuiDzYl727HZvdK9m">
+              <option name="activationTimestamp" value="1760700648914" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1760700586622" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/xdev/config">
+          <value>
+            <RecentProjectMetaInfo frameTitle="config – ethv-idle-mouse/start.sh" projectWorkspaceId="32UYYdSVMGQBvcD8nXvbSb5cCT5">
+              <option name="activationTimestamp" value="1760700639305" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1760700639728" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/xdev/knowledge">
+          <value>
+            <RecentProjectMetaInfo frameTitle="knowledge – draft/…/graph.md" opened="true" projectWorkspaceId="2w76INqDqAcb14jEXLy4iyIBuef">
+              <option name="activationTimestamp" value="1761033089062" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-2" y="0" width="1924" height="1057" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1761014870697" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/personal/code/graph">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="33UoNLUDmKVL0OsyUxjf4ADC1F9">
+              <option name="activationTimestamp" value="1761033241898" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-243.26053.27" />
+              <option name="buildTimestamp" value="1742101260000" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1761033089193" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/personal/code/graph" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/xdev/config/ssh" />
+  </component>
+</application>

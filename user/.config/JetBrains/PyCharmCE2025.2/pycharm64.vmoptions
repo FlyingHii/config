@@ -1,0 +1,4 @@
+-Xmx1991m
+-Dide.managed.by.toolbox=/home/hai-vo/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=98093554-8884-453d-b628-bf49b1f44bbe
+-Dtoolbox.notification.portFile=/home/hai-vo/.cache/JetBrains/Toolbox/ports/05cba9ef-d0da-4697-a3f6-62fdffeb67ec.port

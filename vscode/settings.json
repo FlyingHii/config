@@ -1,0 +1,58 @@
+{
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveDelay": 50,
+    "git.allowForcePush": true,
+    "editor.fontLigatures": false,
+    "editor.fontWeight": "normal",
+    "editor.fontFamily": "'M+ 1M', 'Ubuntu Mono', 'monospace', monospace",
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "GitHub Light High Contrast",
+    "[php]": {
+        "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+    },
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.showTabs": false,
+    "phpfmt.psr1_naming": true,
+    "phpfmt.psr1": true,
+    "phpfmt.smart_linebreak_after_curly": true,
+    "LaravelExtraIntellisense.basePathForCode": ".",
+    "LaravelExtraIntellisense.basePath": ".",
+    "phpfmt.enable_auto_align": true,
+    "gitlens.currentLine.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "phpcs.executablePath": "~/.config/composer/vendor/bin/phpcs",
+    "phpcs.composerJsonPath": "~/.config/composer/composer.json",
+    "phpcs.standard": "PSR12",
+    "phpcs.enable": false,
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.limit.enabled": true,
+    "git-graph.date.type": "Commit Date",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 2,
+    "workbench.activityBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+	"editor.minimap.enabled": false,
+    "window.menuBarVisibility": "hidden",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "git.openRepositoryInParentFolders": "never",
+	"search.searchEditor.defaultNumberOfContextLines": 20,
+	//  - reuseEditor: Search in an existing search editor if present, otherwise in a new search editor.
+	//  - newEditor: Search in a new search editor.
+	"search.mode": "reuseEditor",
+    "vim.useSystemClipboard": true,
+    "vim.incsearch": true,
+	"vim.wrapscan": false,
+    "vim.handleKeys": {
+        "<C-d>": false,
+        "<C-s>": false,
+        "<C-z>": false,
+        "<C-p>": false
+    },
+	"terminal.external.linuxExec": "/bin/bash",
+}
